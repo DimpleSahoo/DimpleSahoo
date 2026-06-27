@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Passionate Computer Science Engineer</h1>
+<h1 align="center">Hi 👋, I'm Dimple Sahoo</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 - 🔭 I’m currently working on **Women Safety.**
