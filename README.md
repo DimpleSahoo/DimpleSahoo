@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **js, react, sql.**
 
+- 📄 Know about my experiences **https://drive.google.com/file/d/1TxBFFg542ukvEwGATBRlFR20JOxEAN4Z/view?usp=sharing**
+
 - 📫 How to reach me **dimplesahoo5@gmail.com**
 
 - ⚡ Fun fact **I am very Serious :|**
